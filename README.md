@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/3o7bufB2gMeaRFfumY" width="100"/>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/jorge-palomino/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </div>
+  <h1>hey there 👋</h1>
+</div>
+
+## iOS Software Engineer
+
+- 
+- 
+- 
+-
+-
+-
+-
+-
+-
+
+
+📫 imvisno@gmail.com
+
+### Languages
+
