@@ -3,6 +3,8 @@
   <div id="badges">
    <a href="https://www.linkedin.com/in/jorge-palomino/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <a href="https://apps.apple.com/es/app/buzzer-beater/id1527137167">
+      <img src="https://img.shields.io/badge/Buzzer%20Beater-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Buzzer Beater"/>
   </div>
   <h1>Jorge Palomino 🫡</h1>
 </div>
