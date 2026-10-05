@@ -14,14 +14,15 @@
   <h1>Jorge Palomino 🫡</h1>
 </div>
 
-## Senior Software Engineer & Head of Development
-- 🖥️ 9+ years as a Software Engineer
-- 🧑🏾‍🚀 Currently **Head of Development at Peek** — leading iOS, Android, Web & Cloud
-- 📱 Mobile, Web & Full-Stack Developer
+## Senior / Lead Software Engineer · Mobile, Web, Backend & Cloud
+- 🖥️ 9+ years shipping products end to end
+- 🧑🏾‍🚀 Currently **Head of Development (sole developer & technical owner) at Peek** — an early-stage startup, building iOS, Android, Web & AWS end to end
+- 📱 Senior Full-Stack & Mobile Engineer
 - 🍏 Swift, SwiftUI, UIKit, Combine
 - 🤖 Kotlin & Jetpack Compose
 - 🌐 React, Next.js & TypeScript
 - 🔩 MVVM & Clean Architecture
+- ✨ Shipping faster with Claude Code & AI-assisted development
 - 🎓 MSc Mobile Applications & BSc Software Engineering — Universidad Politécnica de Madrid
 - 🫧 Clean code & refactoring
 
@@ -38,10 +39,10 @@ Native iOS & Android • Pusher live bidding • KYC & seller flows
 Node.js • PostgreSQL • AI scoring pipeline (Claude API) • HealthKit & Oura Ring
 
 **[The Sole Supplier](https://jorgepalomino.dev/ios/sole-supplier)** - Top 50 UK Sneaker Shopping App 👟  
-4.8★ rating • 1.5M+ monthly sessions • 99.8% crash-free
+4.8★ rating • 1.5M+ monthly sessions • 1,000+ daily downloads • 99.8% crash-free
 
 **[Buzzer Beater](https://jorgepalomino.dev/ios/buzzer-beater)** - Full-Stack NBA Platform 🏀  
-MongoDB • Java Spring Boot • AWS • Real-time data & AI predictions
+Native iOS & Android • MongoDB • Java Spring Boot • AWS • Real-time data & AI predictions
 
 ## SKILLS
 ### Mobile Development
@@ -60,6 +61,11 @@ MongoDB • Java Spring Boot • AWS • Real-time data & AI predictions
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
+### AI & Automation
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
 ### Backend & APIs
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -70,6 +76,7 @@ MongoDB • Java Spring Boot • AWS • Real-time data & AI predictions
 
 ### Cloud & Databases
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -81,6 +88,7 @@ MongoDB • Java Spring Boot • AWS • Real-time data & AI predictions
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
